@@ -1,4 +1,5 @@
 # Store-Design
+Simple Store Design project.
 
 ## Description
 
